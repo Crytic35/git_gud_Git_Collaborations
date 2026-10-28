@@ -12,7 +12,7 @@ int main() {
     for (int i = 1; i <= 5; i++) {
         sum = sum + numbers[i];
     }
-
+    
     cout << "The total sum is: " << sum << endl;
     cout << "Expected sum is: 150" << endl;
 
